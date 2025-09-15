@@ -1,8 +1,6 @@
 ## Automation of Building a Transactional Data Lake
 1. [Introduction](https://github.com/aws-samples/automation-of-building-a-transactional-data-lake/tree/main?tab=readme-ov-file#introduction)
 2. [Guide Overview](https://github.com/aws-samples/automation-of-building-a-transactional-data-lake/tree/main?tab=readme-ov-file#guide-overview)
-3. [How to Run](https://github.com/aws-samples/automation-of-building-a-transactional-data-lake/tree/main?tab=readme-ov-file#how-to-run)
-4. [Reference Link](https://github.com/aws-samples/automation-of-building-a-transactional-data-lake/tree/main?tab=readme-ov-file#reference-link)
 <br>
 
 ## Introduction
