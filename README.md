@@ -1,6 +1,6 @@
 ## Automation of Building a Transactional Data Lake
-1. [Introduction](https://github.com/aws-samples/automation-of-building-a-transactional-data-lake/tree/main?tab=readme-ov-file#introduction)
-2. [Guide Overview](https://github.com/aws-samples/automation-of-building-a-transactional-data-lake/tree/main?tab=readme-ov-file#guide-overview)
+1. [Introduction](https://github.com/vrund2/Transactional-Data-Lake-Pipline-/blob/main/README.md#introduction)
+2. [Guide Overview]((https://github.com/vrund2/Transactional-Data-Lake-Pipline-/blob/main/README.md#guide-overview))
 <br>
 
 ## Introduction
