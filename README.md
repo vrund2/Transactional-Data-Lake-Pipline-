@@ -1,6 +1,6 @@
 ## Automation of Building a Transactional Data Lake
 1. [Introduction](https://github.com/vrund2/Transactional-Data-Lake-Pipline-/blob/main/README.md#introduction)
-2. [Guide Overview]((https://github.com/vrund2/Transactional-Data-Lake-Pipline-/blob/main/README.md#guide-overview))
+2. [Guide Overview](https://github.com/vrund2/Transactional-Data-Lake-Pipline-/blob/main/README.md#guide-overview)
 <br>
 
 ## Introduction
