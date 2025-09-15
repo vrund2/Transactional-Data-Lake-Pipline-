@@ -18,7 +18,7 @@ This guide aims to mitigate the above challenges that you may encounter. We enco
 
 #### Proposed Guide
 <!--[Image] Architecture Diagram-->
-![Architecture Diagram](./images/aws-smaples.jpg)
+
 
 The focus area of the guide is to help customers understand how to build a transactional data lake with their preferred open table format. To simplify the guide and save costs, we make the following assumptions:
 
